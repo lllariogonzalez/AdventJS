@@ -12,7 +12,7 @@ Este repositorio contiene las soluciones a los challenges propuestos por [@midud
 
 ### 🕹️ Retos
 
-|  #  |             Retos                | Dificultad[^1]  |                  Descripción                    |                 Solución               |
+|  #  |             Retos                |   Dificultad    |                  Descripción                    |                 Solución               |
 | :-: | :------------------------------: | :------------:  | :---------------------------------------------: | :------------------------------------: |
 | 01  |    ¡Primer regalo repetido!      |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/1) |         [reto #1](./reto%20%231)       |
 | 02  |  Ponemos en marcha la fábrica    |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/2) |         [reto #2](./reto%20%232)       |
@@ -40,7 +40,9 @@ Este repositorio contiene las soluciones a los challenges propuestos por [@midud
 | 24  |             --                   |       --       |                       --                        |                    --                   |
 | 25  |             --                   |       --       |                       --                        |                    --                   |
 
-[^1]: **Difficulty**: 🟢 Fácil 🟠 Medio 🔴 Difícil
+>[!TIP] 
+**Dificultad**: 🟢 Fácil 🟠 Medio 🔴 Difícil
+
 </details>
 
 
