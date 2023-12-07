@@ -7,7 +7,7 @@ Este repositorio contiene las soluciones a los challenges propuestos por [@midud
 > [!NOTE]
 Las soluciones - algoritmos propuestos en este repo están basados en la mejor puntuación para el juego, los puntos que se pueden obtener en cada reto varía según operaciones por segundo y [complejidad cognitiva](./Cognitive_Complexity_Sonar_Guide_2023.pdf)
 
-> [!WARNING]
+> [!IMPORTANT]
 > Sección AI
 > ¡Por supuesto! Aquí tienes un saludo con un tono más festivo y humorístico:
 
