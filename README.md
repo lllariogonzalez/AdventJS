@@ -40,7 +40,6 @@ Este repositorio contiene las soluciones a los challenges propuestos por [@midud
 | 24  |             --                   |       --       |                       --                        |                    --                   |
 | 25  |             --                   |       --       |                       --                        |                    --                   |
 
-> [!TIP] 
 > **Dificultad**: 🟢 Fácil 🟠 Medio 🔴 Difícil
 
 </details>
