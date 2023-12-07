@@ -27,7 +27,8 @@ const firstRepeatedId3 = findFirstRepeated(giftIds3)
 console.log(firstRepeatedId3) // 5
 
 ```
-> [!IMPORTANT] ¡Ojo! Los elfos dicen que esto es una prueba técnica de Google.
+> [!IMPORTANT]
+¡Ojo! Los elfos dicen que esto es una prueba técnica de Google.
 
 ## Notas de la Solución
 
