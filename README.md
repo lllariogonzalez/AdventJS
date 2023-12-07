@@ -14,12 +14,12 @@ Este repositorio contiene las soluciones a los challenges propuestos por [@midud
 
 |  #  |             Retos                | Dificultad[^1]  |                  Descripción                    |                 Solución               |
 | :-: | :------------------------------: | :------------:  | :---------------------------------------------: | :------------------------------------: |
-| 01  |    ¡Primer regalo repetido!      |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/1) |   [reto #1](./reto%20%231/reto_1.js)    |
-| 02  |  Ponemos en marcha la fábrica    |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/2) |   [reto #2](./reto%20%232/reto_2.js)    |
-| 03  |       El elfo travieso           |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/3) |   [reto #3](./reto%20%233/reto_3.js)    |
-| 04  | Dale la vuelta a los paréntesis  |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/4) |   [reto #4](./reto%20%234/reto_4.js)    |
-| 05  |     El CyberTruck de Santa       |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/5) |   [reto #5](./reto%20%235/reto_5.js)    |
-| 06  |       Los renos a prueba         |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/6) |   [reto #6](./reto%20%236/reto_6.js)    |
+| 01  |    ¡Primer regalo repetido!      |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/1) |         [reto #1](./reto%20%231)       |
+| 02  |  Ponemos en marcha la fábrica    |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/2) |         [reto #2](./reto%20%232)       |
+| 03  |       El elfo travieso           |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/3) |         [reto #3](./reto%20%233)       |
+| 04  | Dale la vuelta a los paréntesis  |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/4) |         [reto #4](./reto%20%234)       |
+| 05  |     El CyberTruck de Santa       |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/5) |         [reto #5](./reto%20%235)       |
+| 06  |       Los renos a prueba         |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/6) |         [reto #6](./reto%20%236)       |
 | 07  |             --                   |       --       |                       --                        |                    --                   |
 | 08  |             --                   |       --       |                       --                        |                    --                   |
 | 09  |             --                   |       --       |                       --                        |                    --                   |
