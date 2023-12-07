@@ -41,7 +41,7 @@ function decode(message){
   do{
     // buscamos el indice del ultimo "(" en abrirse
     let startIndex = message.lastIndexOf("(")
-    // buscamos el indice del primer ")" en cerrarse
+    // buscamos el indice del primer ")" en cerrarse luego de la startIndex
     let endIndex = message.indexOf(")", startIndex)
     // recuperamos la primera parte de nuestro mensaje antes del ultimo "(" abierto
     let start = message.substring(0, startIndex)
