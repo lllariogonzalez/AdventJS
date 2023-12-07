@@ -4,6 +4,46 @@
 
 Este repositorio contiene las soluciones a los challenges propuestos por [@midudev](https://midu.dev/) en [adventjs.dev](https://adventjs.dev/) website.
 
+## 🎉 2023
+
+<details open>
+
+<summary>Mostrar / Ocultar</summary>
+
+### 🕹️ Retos
+
+|  #  |             Retos                | Dificultad[^1]  |                  Descripción                    |                 Solución               |
+| :-: | :------------------------------: | :------------:  | :---------------------------------------------: | :------------------------------------: |
+| 01  |    ¡Primer regalo repetido!      |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/1) |   [reto #1](./reto%20%231/reto_1.js)    |
+| 02  |  Ponemos en marcha la fábrica    |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/2) |   [reto #2](./reto%20%232/reto_2.js)    |
+| 03  |       El elfo travieso           |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/3) |   [reto #3](./reto%20%233/reto_3.js)    |
+| 04  | Dale la vuelta a los paréntesis  |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/4) |   [reto #4](./reto%20%234/reto_4.js)    |
+| 05  |     El CyberTruck de Santa       |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/5) |   [reto #5](./reto%20%235/reto_5.js)    |
+| 06  |       Los renos a prueba         |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/6) |   [reto #6](./reto%20%236/reto_6.js)    |
+| 07  |             --                   |       --       |                       --                        |                    --                   |
+| 08  |             --                   |       --       |                       --                        |                    --                   |
+| 09  |             --                   |       --       |                       --                        |                    --                   |
+| 10  |             --                   |       --       |                       --                        |                    --                   |
+| 11  |             --                   |       --       |                       --                        |                    --                   |
+| 12  |             --                   |       --       |                       --                        |                    --                   |
+| 13  |             --                   |       --       |                       --                        |                    --                   |
+| 14  |             --                   |       --       |                       --                        |                    --                   |
+| 15  |             --                   |       --       |                       --                        |                    --                   |
+| 16  |             --                   |       --       |                       --                        |                    --                   |
+| 17  |             --                   |       --       |                       --                        |                    --                   |
+| 18  |             --                   |       --       |                       --                        |                    --                   |
+| 19  |             --                   |       --       |                       --                        |                    --                   |
+| 20  |             --                   |       --       |                       --                        |                    --                   |
+| 21  |             --                   |       --       |                       --                        |                    --                   |
+| 22  |             --                   |       --       |                       --                        |                    --                   |
+| 23  |             --                   |       --       |                       --                        |                    --                   |
+| 24  |             --                   |       --       |                       --                        |                    --                   |
+| 25  |             --                   |       --       |                       --                        |                    --                   |
+
+[^1]: **Difficulty**: 🟢 Fácil 🟠 Medio 🔴 Difícil
+</details>
+
+
 > [!IMPORTANT]
 Las soluciones - algoritmos propuestos en este repo están basados en la mejor puntuación para el juego, los puntos que se pueden obtener en cada reto varía según operaciones por segundo y [complejidad cognitiva](./Cognitive_Complexity_Sonar_Guide_2023.pdf)
 
