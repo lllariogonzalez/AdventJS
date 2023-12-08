@@ -35,7 +35,7 @@ Agradezco a la comunidad comunidad de [discord](https://discord.com/invite/midud
 > - Cada 1000 ops sumas 100pts
 > - La mínima cc es 1 y aumentarla resta 10pts por unidad
 > - Los for .. of no aumentan la cc
-> - usar operaciones binarias, estructuras de datos o "trucos" de js como el operador + para coercionar datos, puede ayudarte a evitar el uso de condicionales.
+> - usar operaciones binarias, estructuras de datos o "trucos" de js como el operador + para coercionar datos, puede ayudarte a evitar el uso de condicionales y asi evitar aumentar la complejidad cognitiva.
 
 
 
