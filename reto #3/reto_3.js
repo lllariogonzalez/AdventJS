@@ -1,10 +1,14 @@
 function findNaughtyStep(original, modified) {
-  const o = original.length
-  const m = modified.length
-  const sequences = {
-    [o]: [original, modified],
-    [m]: [modified, original],
+  let sequences = [
+    [original, modified],
+    [modified, original]
+  ]
+  let [steps, reference] = sequences[+(original.length < modified.length)]
+  let result = [""]
+  let i = 0
+  for(let step of steps){
+    result[+(step !== reference[i])] ??= step
+    i++
   }
-  const [steps, reference] = sequences[Math.max(o, m)]
-  return [...steps].find((step, i) => step !== reference[i]) ?? ''
+  return result[+(steps!==reference)]
 }
