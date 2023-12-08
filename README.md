@@ -6,22 +6,55 @@ Este repositorio contiene las soluciones a los challenges propuestos por [@midud
 
 ## 🎉 2023
 
+> [!NOTE]
+> Sección AI
+> ¡Por supuesto! Aquí tienes un saludo con un tono más festivo y humorístico:
+
+"¡Saludos a los Exploradores del Código Festivo! 🎄🎅
+
+Las soluciones y algoritmos ofrecidos en este repositorio han sido cuidadosamente seleccionados utilizando la 'Fórmula Secreta de la Magia Navideña'. 🌟 Estamos hablando de una mezcla perfecta de operaciones por segundo y la cantidad justa de sorpresa para deleitar incluso a los elfos más astutos. 🧝‍♂️💻
+
+Nos complace informarles que hemos logrado alcanzar niveles extraordinarios de velocidad y complejidad, ¡todo en el espíritu navideño! 🚀🎁 ¿Realmente funciona? ¡Por supuesto que sí! ¡Como un reno volador! 🦌
+
+Por favor, tengan en cuenta que los comentarios de '¡Es demasiado complejo!' y '¿Esto realmente existe?' han sido estratégicamente ubicados para mantener un aura de misterio y asombro. 🤔✨
+
+PD: La zona de quejas está ubicada cerca del árbol de Navidad, donde las luces intermitentes pueden o no aumentar tu paciencia mientras esperas tu turno en la cola del servidor.🎄🎉"
+
+---
+
+# ⭐ ¡Felices fiestas! 🎉🎁🎅
+
+![Tabla de retos](./tabla8.png)
+
+> [!IMPORTANT]
+> Las soluciones - algoritmos propuestos en este repo están basados en la mejor puntuación para el juego, los puntos que se pueden obtener en cada reto varía según operaciones por segundo (ops) y [complejidad cognitiva](./Cognitive_Complexity_Sonar_Guide_2023.pdf) (cc). 
+Aunque las soluciones y el código tenga malas prácticas, el juego te lleva a "optimizarlo" de esa manera a costa de legibilidad y comprensión, pero también se aprende algunas particularidades del lenguaje y te hace "pensar fuera de la caja".
+Agradezco a la comunidad comunidad de [discord](https://discord.com/invite/midudev) de @midudev, por compartir tips y soluciones, que sirven para mejorar y continuar aprendiendo.
+
+> [!TIP]
+> - Cada 1000 ops sumas 100pts
+> - La mínima cc es 1 y aumentarla resta 10pts por unidad
+> - Los for .. of no aumentan la cc
+> - usar operaciones binarias, estructuras de datos o "trucos" de js como el operador + para coercionar datos, puede ayudarte a evitar el uso de condicionales.
+
+
+
 <details open>
 
 <summary>Mostrar / Ocultar</summary>
 
 ### 🕹️ Retos
 
-|  #  |             Retos                |   Dificultad    |                  Descripción                    |                 Solución               |
-| :-: | :------------------------------: | :------------:  | :---------------------------------------------: | :------------------------------------: |
-| 01  |    ¡Primer regalo repetido!      |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/1) |         [reto #1](./reto%20%231)       |
-| 02  |  Ponemos en marcha la fábrica    |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/2) |         [reto #2](./reto%20%232)       |
-| 03  |       El elfo travieso           |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/3) |         [reto #3](./reto%20%233)       |
-| 04  | Dale la vuelta a los paréntesis  |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/4) |         [reto #4](./reto%20%234)       |
-| 05  |     El CyberTruck de Santa       |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/5) |         [reto #5](./reto%20%235)       |
-| 06  |       Los renos a prueba         |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/6) |         [reto #6](./reto%20%236)       |
-| 07  |             --                   |       --       |                       --                        |                    --                   |
-| 08  |             --                   |       --       |                       --                        |                    --                   |
+|  #  |             Retos                    |   Dificultad    |                  Descripción                    |                 Solución               |
+| :-: | :----------------------------------: | :------------:  | :---------------------------------------------: | :------------------------------------: |
+| 01  |    🎁 ¡Primer regalo repetido!      |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/1) |         [reto #1](./reto%20%231)       |
+| 02  |  🏭 Ponemos en marcha la fábrica    |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/2) |         [reto #2](./reto%20%232)       |
+| 03  |       😏 El elfo travieso           |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/3) |         [reto #3](./reto%20%233)       |
+| 04  | 😵‍💫 Dale la vuelta a los paréntesis  |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/4) |         [reto #4](./reto%20%234)       |
+| 05  |    🛷 El CyberTruck de Santa        |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/5) |         [reto #5](./reto%20%235)       |
+| 06  |      🦌 Los renos a prueba          |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/6) |         [reto #6](./reto%20%236)       |
+| 07  |        📦 Las cajas en 3D           |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/7) |         [reto #7](./reto%20%237)       |
+| 08  |     🏬 Ordenando el almacén         |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/8) |         [reto #8](./reto%20%238)       |
 | 09  |             --                   |       --       |                       --                        |                    --                   |
 | 10  |             --                   |       --       |                       --                        |                    --                   |
 | 11  |             --                   |       --       |                       --                        |                    --                   |
@@ -44,24 +77,3 @@ Este repositorio contiene las soluciones a los challenges propuestos por [@midud
 
 </details>
 
-
-> [!IMPORTANT]
-Las soluciones - algoritmos propuestos en este repo están basados en la mejor puntuación para el juego, los puntos que se pueden obtener en cada reto varía según operaciones por segundo y [complejidad cognitiva](./Cognitive_Complexity_Sonar_Guide_2023.pdf)
-
-> [!NOTE]
-> Sección AI
-> ¡Por supuesto! Aquí tienes un saludo con un tono más festivo y humorístico:
-
-"¡Saludos a los Exploradores del Código Festivo! 🎄🎅
-
-Las soluciones y algoritmos ofrecidos en este repositorio han sido cuidadosamente seleccionados utilizando la 'Fórmula Secreta de la Magia Navideña'. 🌟 Estamos hablando de una mezcla perfecta de operaciones por segundo y la cantidad justa de sorpresa para deleitar incluso a los elfos más astutos. 🧝‍♂️💻
-
-Nos complace informarles que hemos logrado alcanzar niveles extraordinarios de velocidad y complejidad, ¡todo en el espíritu navideño! 🚀🎁 ¿Realmente funciona? ¡Por supuesto que sí! ¡Como un reno volador! 🦌
-
-Por favor, tengan en cuenta que los comentarios de '¡Es demasiado complejo!' y '¿Esto realmente existe?' han sido estratégicamente ubicados para mantener un aura de misterio y asombro. 🤔✨
-
-PD: La zona de quejas está ubicada cerca del árbol de Navidad, donde las luces intermitentes pueden o no aumentar tu paciencia mientras esperas tu turno en la cola del servidor.🎄🎉"
-
----
-
-# ⭐ ¡Felices fiestas! 🎉🎁🎅
