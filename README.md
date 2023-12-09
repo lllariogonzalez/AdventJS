@@ -55,7 +55,7 @@ Agradezco a la comunidad comunidad de [discord](https://discord.com/invite/midud
 | 06  |      🦌 Los renos a prueba          |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/6) |         [reto #6](./reto%20%236)       |
 | 07  |        📦 Las cajas en 3D           |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/7) |         [reto #7](./reto%20%237)       |
 | 08  |     🏬 Ordenando el almacén         |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/8) |         [reto #8](./reto%20%238)       |
-| 09  |      🚦 Alterna las luces           |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/9) |         [reto #8](./reto%20%239)       |
+| 09  |      🚦 Alterna las luces           |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/9) |         [reto #9](./reto%20%239)       |
 | 10  |             --                   |       --       |                       --                        |                    --                   |
 | 11  |             --                   |       --       |                       --                        |                    --                   |
 | 12  |             --                   |       --       |                       --                        |                    --                   |
