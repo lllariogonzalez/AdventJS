@@ -46,7 +46,7 @@ Agradezco a la comunidad comunidad de [discord](https://discord.com/invite/midud
 ### 🕹️ Retos
 
 |  #  |             Retos                    |   Dificultad    |                  Descripción                    |                 Solución               |
-| :-: | :----------------------------------: | :------------:  | :---------------------------------------------: | :------------------------------------: |
+| :-: | :----------------------------------  | :------------:  | :---------------------------------------------: | :------------------------------------: |
 | 01  | 🎁 ¡Primer regalo repetido!         |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/1) |         [reto #1](./reto%20%231)       |
 | 02  | 🏭 Ponemos en marcha la fábrica     |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/2) |         [reto #2](./reto%20%232)       |
 | 03  | 😏 El elfo travieso                 |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/3) |         [reto #3](./reto%20%233)       |
