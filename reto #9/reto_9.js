@@ -1,11 +1,10 @@
-function adjustLights(lights) {
-  let start = ""
-  let adjust = 0;
+function adjustLights(lights){
+  const color = ["🟢","🔴"]
+  let res = 0
 
-  for (let l of lights) {
-      adjust += +(l==start)
-      start = [l, ""][+(l==start)]
-    }
+  for(let [i, light] of lights.entries()){
+    res += +(light == color[i%2])
+  }
 
-  return adjust
+ return Math.min(res, lights.length - res)
 }
