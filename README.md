@@ -47,16 +47,16 @@ Agradezco a la comunidad comunidad de [discord](https://discord.com/invite/midud
 
 |  #  |             Retos                    |   Dificultad    |                  Descripción                    |                 Solución               |
 | :-: | :----------------------------------  | :------------:  | :---------------------------------------------: | :------------------------------------: |
-| 01  | 🎁 ¡Primer regalo repetido!         |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/1) |         [reto #1](./reto%20%231)       |
-| 02  | 🏭 Ponemos en marcha la fábrica     |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/2) |         [reto #2](./reto%20%232)       |
-| 03  | 😏 El elfo travieso                 |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/3) |         [reto #3](./reto%20%233)       |
-| 04  | 😵‍💫 Dale la vuelta a los paréntesis  |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/4) |         [reto #4](./reto%20%234)       |
-| 05  | 🛷 El CyberTruck de Santa           |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/5) |         [reto #5](./reto%20%235)       |
-| 06  | 🦌 Los renos a prueba               |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/6) |         [reto #6](./reto%20%236)       |
-| 07  | 📦 Las cajas en 3D                  |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/7) |         [reto #7](./reto%20%237)       |
-| 08  | 🏬 Ordenando el almacén             |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/8) |         [reto #8](./reto%20%238)       |
-| 09  | 🚦 Alterna las luces                |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/9) |         [reto #9](./reto%20%239)       |
-| 10  |             --                   |       --       |                       --                        |                    --                   |
+| 01  | 🎁 ¡Primer regalo repetido!         |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/1)  |         [reto #1](./reto%20%231)       |
+| 02  | 🏭 Ponemos en marcha la fábrica     |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/2)  |         [reto #2](./reto%20%232)       |
+| 03  | 😏 El elfo travieso                 |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/3)  |         [reto #3](./reto%20%233)       |
+| 04  | 😵‍💫 Dale la vuelta a los paréntesis  |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/4)  |         [reto #4](./reto%20%234)       |
+| 05  | 🛷 El CyberTruck de Santa           |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/5)  |         [reto #5](./reto%20%235)       |
+| 06  | 🦌 Los renos a prueba               |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/6)  |         [reto #6](./reto%20%236)       |
+| 07  | 📦 Las cajas en 3D                  |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/7)  |         [reto #7](./reto%20%237)       |
+| 08  | 🏬 Ordenando el almacén             |       🟠       | [ir](https://adventjs.dev/es/challenges/2023/8)  |         [reto #8](./reto%20%238)       |
+| 09  | 🚦 Alterna las luces                |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/9)  |         [reto #9](./reto%20%239)       |
+| 10  | 🎄 Crea tu propio árbol de navidad  |       🟢       | [ir](https://adventjs.dev/es/challenges/2023/10) |         [reto #9](./reto%20%2310)      |
 | 11  |             --                   |       --       |                       --                        |                    --                   |
 | 12  |             --                   |       --       |                       --                        |                    --                   |
 | 13  |             --                   |       --       |                       --                        |                    --                   |
