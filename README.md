@@ -24,7 +24,7 @@ PD: La zona de quejas está ubicada cerca del árbol de Navidad, donde las luces
 
 # ⭐ ¡Felices fiestas! 🎉🎁🎅
 
-![Tabla de retos](./tabla8.png)
+![Tabla de retos](./tabla.png)
 
 > [!IMPORTANT]
 > Las soluciones - algoritmos propuestos en este repo están basados en la mejor puntuación para el juego, los puntos que se pueden obtener en cada reto varía según operaciones por segundo (ops) y [complejidad cognitiva](./Cognitive_Complexity_Sonar_Guide_2023.pdf) (cc). 
@@ -76,4 +76,6 @@ Agradezco a la comunidad comunidad de [discord](https://discord.com/invite/midud
 > **Dificultad**: 🟩 Fácil 🟨 Medio 🟥 Difícil
 
 </details>
+
+
 
