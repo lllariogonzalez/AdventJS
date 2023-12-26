@@ -58,7 +58,7 @@ Agradezco a la comunidad comunidad de [discord](https://discord.com/invite/midud
 | 09  | 🚦 Alterna las luces                |       🟩       | [ir](https://adventjs.dev/es/challenges/2023/9)  |         [reto #9](./reto%20%239)       |
 | 10  | 🎄 Crea tu propio árbol de navidad  |       🟩       | [ir](https://adventjs.dev/es/challenges/2023/10) |         [reto #10](./reto%20%2310)     |
 | 11  | 📖 Los elfos estudiosos             |       🟨       | [ir](https://adventjs.dev/es/challenges/2023/11) |         [reto #11](./reto%20%2311)     |
-| 12  |             --                   |       --       |                       --                        |                    --                   |
+| 12  | 📸 ¿Es una copia válida?            |       🟨       | [ir](https://adventjs.dev/es/challenges/2023/12) |         [reto #12](./reto%20%2312)     |
 | 13  |             --                   |       --       |                       --                        |                    --                   |
 | 14  |             --                   |       --       |                       --                        |                    --                   |
 | 15  |             --                   |       --       |                       --                        |                    --                   |
