@@ -64,7 +64,7 @@ Agradezco a la comunidad comunidad de [discord](https://discord.com/invite/midud
 | 15  | ↔️ Robot autónomo                    |       🟨       | [ir](https://adventjs.dev/es/challenges/2023/15) |         [reto #15](./reto%20%2315)     |
 | 16  | ❌ Despliegue en viernes            |       🟩       | [ir](https://adventjs.dev/es/challenges/2023/16) |         [reto #16](./reto%20%2316)     |
 | 17  | 🛷 Optimizando el alquiler          |       🟩       | [ir](https://adventjs.dev/es/challenges/2023/17) |         [reto #17](./reto%20%2317)     |
-| 18  |             --                   |       --       |                       --                        |                    --                   |
+| 18  | 🔢 El reloj digital                 |       🟥       | [ir](https://adventjs.dev/es/challenges/2023/18) |         [reto #18](./reto%20%2318)     |
 | 19  |             --                   |       --       |                       --                        |                    --                   |
 | 20  |             --                   |       --       |                       --                        |                    --                   |
 | 21  |             --                   |       --       |                       --                        |                    --                   |
