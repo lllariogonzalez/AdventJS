@@ -59,7 +59,7 @@ Agradezco a la comunidad comunidad de [discord](https://discord.com/invite/midud
 | 10  | 🎄 Crea tu propio árbol de navidad  |       🟩       | [ir](https://adventjs.dev/es/challenges/2023/10) |         [reto #10](./reto%20%2310)     |
 | 11  | 📖 Los elfos estudiosos             |       🟨       | [ir](https://adventjs.dev/es/challenges/2023/11) |         [reto #11](./reto%20%2311)     |
 | 12  | 📸 ¿Es una copia válida?            |       🟨       | [ir](https://adventjs.dev/es/challenges/2023/12) |         [reto #12](./reto%20%2312)     |
-| 13  |             --                   |       --       |                       --                        |                    --                   |
+| 13  | ⌚️ Calculando el tiempo             |       🟩       | [ir](https://adventjs.dev/es/challenges/2023/13) |         [reto #13](./reto%20%2313)     |
 | 14  |             --                   |       --       |                       --                        |                    --                   |
 | 15  |             --                   |       --       |                       --                        |                    --                   |
 | 16  |             --                   |       --       |                       --                        |                    --                   |
