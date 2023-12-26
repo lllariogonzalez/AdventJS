@@ -66,7 +66,7 @@ Agradezco a la comunidad comunidad de [discord](https://discord.com/invite/midud
 | 17  | 🛷 Optimizando el alquiler          |       🟩       | [ir](https://adventjs.dev/es/challenges/2023/17) |         [reto #17](./reto%20%2317)     |
 | 18  | 🔢 El reloj digital                 |       🟥       | [ir](https://adventjs.dev/es/challenges/2023/18) |         [reto #18](./reto%20%2318)     |
 | 19  | 💣 Enfrenta el sabotaje             |       🟨       | [ir](https://adventjs.dev/es/challenges/2023/19) |         [reto #19](./reto%20%2319)     |
-| 20  |             --                   |       --       |                       --                        |                    --                   |
+| 20  | 🏋️‍♂️ Distribuye el peso               |       🟥       | [ir](https://adventjs.dev/es/challenges/2023/20) |         [reto #20](./reto%20%2320)     |
 | 21  |             --                   |       --       |                       --                        |                    --                   |
 | 22  |             --                   |       --       |                       --                        |                    --                   |
 | 23  |             --                   |       --       |                       --                        |                    --                   |
