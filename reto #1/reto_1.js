@@ -1,5 +1,5 @@
 function findFirstRepeated(gifts) {
-  let repeated = gifts.filter((id, index) => gifts.indexOf(id) !== index)
-  repeated.push(-1)
-  return repeated[0]
+  let repeated = gifts.find((gift, index) => gifts.indexOf(gift) !== index)
+  repeated ??= -1
+  return repeated
 }
