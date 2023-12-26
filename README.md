@@ -57,7 +57,7 @@ Agradezco a la comunidad comunidad de [discord](https://discord.com/invite/midud
 | 08  | 🏬 Ordenando el almacén             |       🟨       | [ir](https://adventjs.dev/es/challenges/2023/8)  |         [reto #8](./reto%20%238)       |
 | 09  | 🚦 Alterna las luces                |       🟩       | [ir](https://adventjs.dev/es/challenges/2023/9)  |         [reto #9](./reto%20%239)       |
 | 10  | 🎄 Crea tu propio árbol de navidad  |       🟩       | [ir](https://adventjs.dev/es/challenges/2023/10) |         [reto #10](./reto%20%2310)     |
-| 11  |             --                   |       --       |                       --                        |                    --                   |
+| 11  | 📖 Los elfos estudiosos             |       🟨       | [ir](https://adventjs.dev/es/challenges/2023/11) |         [reto #11](./reto%20%2311)     |
 | 12  |             --                   |       --       |                       --                        |                    --                   |
 | 13  |             --                   |       --       |                       --                        |                    --                   |
 | 14  |             --                   |       --       |                       --                        |                    --                   |
