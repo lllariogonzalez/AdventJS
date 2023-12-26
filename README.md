@@ -61,7 +61,7 @@ Agradezco a la comunidad comunidad de [discord](https://discord.com/invite/midud
 | 12  | 📸 ¿Es una copia válida?            |       🟨       | [ir](https://adventjs.dev/es/challenges/2023/12) |         [reto #12](./reto%20%2312)     |
 | 13  | ⌚️ Calculando el tiempo             |       🟩       | [ir](https://adventjs.dev/es/challenges/2023/13) |         [reto #13](./reto%20%2313)     |
 | 14  | 🚨 Evita la alarma                  |       🟨       | [ir](https://adventjs.dev/es/challenges/2023/14) |         [reto #14](./reto%20%2314)     |
-| 15  |             --                   |       --       |                       --                        |                    --                   |
+| 15  | ↔️ Robot autónomo                    |       🟨       | [ir](https://adventjs.dev/es/challenges/2023/15) |         [reto #15](./reto%20%2315)     |
 | 16  |             --                   |       --       |                       --                        |                    --                   |
 | 17  |             --                   |       --       |                       --                        |                    --                   |
 | 18  |             --                   |       --       |                       --                        |                    --                   |
