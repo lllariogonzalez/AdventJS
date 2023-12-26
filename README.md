@@ -71,7 +71,7 @@ Agradezco a la comunidad comunidad de [discord](https://discord.com/invite/midud
 | 22  | 🚂 Lenguaje de programación         |       🟩       | [ir](https://adventjs.dev/es/challenges/2023/22) |         [reto #22](./reto%20%2322)     |
 | 23  | 🍽️ La comida de Navidad             |       🟩       | [ir](https://adventjs.dev/es/challenges/2023/23) |         [reto #23](./reto%20%2323)     |
 | 24  | 🪜 Brincos en la escalera           |       🟨       | [ir](https://adventjs.dev/es/challenges/2023/24) |         [reto #24](./reto%20%2324)     |
-| 25  |             --                   |       --       |                       --                        |                    --                   |
+| 25  | 🗺️ Calculando distancias            |       🟨       | [ir](https://adventjs.dev/es/challenges/2023/25) |         [reto #25](./reto%20%2325)     |
 
 > **Dificultad**: 🟩 Fácil 🟨 Medio 🟥 Difícil
 
