@@ -69,7 +69,7 @@ Agradezco a la comunidad comunidad de [discord](https://discord.com/invite/midud
 | 20  | 🏋️‍♂️ Distribuye el peso               |       🟥       | [ir](https://adventjs.dev/es/challenges/2023/20) |         [reto #20](./reto%20%2320)     |
 | 21  | 🪐 Mensaje binario                  |       🟨       | [ir](https://adventjs.dev/es/challenges/2023/21) |         [reto #21](./reto%20%2321)     |
 | 22  | 🚂 Lenguaje de programación         |       🟩       | [ir](https://adventjs.dev/es/challenges/2023/22) |         [reto #22](./reto%20%2322)     |
-| 23  |             --                   |       --       |                       --                        |                    --                   |
+| 23  | 🍽️ La comida de Navidad             |       🟩       | [ir](https://adventjs.dev/es/challenges/2023/23) |         [reto #23](./reto%20%2323)     |
 | 24  |             --                   |       --       |                       --                        |                    --                   |
 | 25  |             --                   |       --       |                       --                        |                    --                   |
 
